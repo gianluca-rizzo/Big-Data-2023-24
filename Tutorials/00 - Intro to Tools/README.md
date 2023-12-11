@@ -60,13 +60,13 @@ To execute Anaconda commands, use the Anaconda prompt: home key - type "anaconda
 Also note that while it is possible to use Git commands on Anaconda prompt, we advise against it.
 
 ```
-conda create -y -n ada python=3.9 scipy pandas numpy matplotlib
+conda create -y -n bd2324 python=3.9 scipy pandas numpy matplotlib
 ```
 
 * Activate it:
     
 ```
-conda activate ada
+conda activate bd2324
 ```
 
 * List your environments:
@@ -79,12 +79,12 @@ conda env list
     
 ```
 conda deactivate
-conda remove --name ada --all
+conda remove --name bd2324 --all
 ```
 
 [more info on managing environments](https://conda.io/docs/user-guide/tasks/manage-environments.html)
 
-* Install [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) using conda (the ada environment needs to be activated):
+* Install [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) using conda (the bd2324 environment needs to be activated):
     
 ```
 conda install jupyterlab bokeh seaborn nb_conda_kernels
@@ -123,7 +123,7 @@ Please read [this tutorial](good_coding_practices.ipynb).
 
 ## Part 4: Homework 0
 
-Access Homework 0 (OPTIONAL and UNGRADED) [here](https://github.com/epfl-ada/2022/tree/main/Homework/00%20-%20Optional%20Homework). Clone the repo locally and take the opportunity to freshen up your Python skills, or to acquire them.
+Access Homework 0 (OPTIONAL and UNGRADED) [here](https://github.com/epfl-bd2324/2022/tree/main/Homework/00%20-%20Optional%20Homework). Clone the repo locally and take the opportunity to freshen up your Python skills, or to acquire them.
 
 ## Common issues
 
