@@ -1,10 +1,10 @@
 # 00 - Intro to Tools
 
-This tutorial should get you up and running with your Python environment, plus give you the basics of Jupyter notebooks. Please complete part 1 before the exercise session on Friday, September 23rd. 
+This tutorial should get you up and running with your Python environment, plus give you the basics of Jupyter notebooks.
 
 ## Disclaimer - Important
 
-We don't care which platform you use to produce the Jupyter Notebook files that you will submit for grading. These instructions will help you get started with Anaconda's local installation, but feel free to use [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) (or [EPFL Noto](https://noto.epfl.ch/)). It is part of your responsibility to have a working environment for the homework and final exam.
+We don't care which platform you use to produce the Jupyter Notebook files that you will submit for grading. These instructions will help you get started with Anaconda's local installation, but feel free to use [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb). It is part of your responsibility to have a working environment for the exercises.
 
 
 ## Part 1: Setting up your environment (IF you want a local/offline installation)
@@ -41,8 +41,8 @@ Install it following this download link: [Git](https://git-scm.com/download/win)
 * Clone the tutorials repo into a local folder:
 
 ```
-git clone https://github.com/epfl-ada/2022 ADA2022
-cd ADA2022
+git clone https://github.com/gianluca-rizzo/Big-Data-2023-24
+cd Big-Data-2023-24
 ```
 <!-- 
 * or pull new changes if you already have it (from the local folder):
